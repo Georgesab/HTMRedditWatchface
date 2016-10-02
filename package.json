@@ -1,0 +1,26 @@
+{
+    "author": "georgesab@outlook.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "htm-reddit-watchface",
+    "pebble": {
+        "displayName": "HTM - Reddit Watchface, Displays Reddit Threads on the Watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "722b9661-b2e9-455a-91bb-259df5fe7370",
+        "watchapp": {
+            "hiddenApp": true,
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
